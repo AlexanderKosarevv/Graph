@@ -1,0 +1,6 @@
+D:\Study\Курсовик\Графы\Graph\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+D:\Study\Курсовик\Графы\Graph\Graph\bin\Debug\Graph.dll
+D:\Study\Курсовик\Графы\Graph\Graph\bin\Debug\Graph.pdb
+D:\Study\Курсовик\Графы\Graph\Graph\obj\Debug\Graph.dll
+D:\Study\Курсовик\Графы\Graph\Graph\obj\Debug\Graph.pdb
+D:\Study\Курсовик\Графы\Graph\Graph\obj\Debug\Graph.csproj.AssemblyReference.cache

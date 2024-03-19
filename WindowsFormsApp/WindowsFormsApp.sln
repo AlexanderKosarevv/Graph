@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp", "WindowsFormsApp\WindowsFormsApp.csproj", "{09668E30-972C-4AD7-AEBF-1B54BE5DEB99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "..\Graph\Graph.csproj", "{73E31AC1-6C18-4563-AA91-87733953EFCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09668E30-972C-4AD7-AEBF-1B54BE5DEB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09668E30-972C-4AD7-AEBF-1B54BE5DEB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09668E30-972C-4AD7-AEBF-1B54BE5DEB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09668E30-972C-4AD7-AEBF-1B54BE5DEB99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73E31AC1-6C18-4563-AA91-87733953EFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E31AC1-6C18-4563-AA91-87733953EFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E31AC1-6C18-4563-AA91-87733953EFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E31AC1-6C18-4563-AA91-87733953EFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D90A35C-7B1B-4E6B-98A4-A0F61357EB47}
+	EndGlobalSection
+EndGlobal

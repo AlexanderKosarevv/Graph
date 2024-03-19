@@ -1,0 +1,13 @@
+D:\Study\Курсовик\Графы\Graph\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+D:\Study\Курсовик\Графы\Graph\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+D:\Study\Курсовик\Графы\Graph\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+D:\Study\Курсовик\Графы\Graph\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+D:\Study\Курсовик\Графы\Graph\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+D:\Study\Курсовик\Графы\Graph\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+D:\Study\Курсовик\Графы\Graph\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\Study\Курсовик\Графы\Graph\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+D:\Study\Курсовик\Графы\Graph\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+D:\Study\Курсовик\Графы\Graph\WindowsFormsApp\WindowsFormsApp\bin\Debug\Graph.dll
+D:\Study\Курсовик\Графы\Graph\WindowsFormsApp\WindowsFormsApp\bin\Debug\Graph.pdb
+D:\Study\Курсовик\Графы\Graph\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+D:\Study\Курсовик\Графы\Graph\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
